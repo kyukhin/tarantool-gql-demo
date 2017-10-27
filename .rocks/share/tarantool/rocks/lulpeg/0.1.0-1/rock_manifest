@@ -1,0 +1,11 @@
+rock_manifest = {
+   doc = {
+      LICENSE = "dc35005608e22c2aee6f6e7cf5d5ea10",
+      ["README.md"] = "9a10361ff7e3ff6f4abaa5702814c25f",
+      ["TODO.md"] = "7e575b42abc4fe18af868f2d4c8d2b39"
+   },
+   lua = {
+      ["lulpeg.lua"] = "1cd2882ceba0dc375f072f34eb243f45"
+   },
+   ["lulpeg-0.1.0-1.rockspec"] = "1e9e2a9ba44e9b3fe7e95447a125bfdd"
+}
